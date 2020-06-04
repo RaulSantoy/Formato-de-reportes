@@ -8,3 +8,13 @@
 \usepackage{hyperref}
 \usepackage[xcolor,subfolder,cleanup,miktext]{gnuplottex}
 \numberwithin{equation}{subsection}
+
+\begin{document}
+
+\subject{} 
+\title{} 
+\subtitle{} 
+\author{Raul E. Santoy Flores}
+\date{\today}
+
+\end{document}
