@@ -1,5 +1,3 @@
-# Formato-de-reportes
-# Formato basico de documentos en latex.
 \documentclass[a4paper]{scrartcl}
 \usepackage[utf8x]{inputenc}
 \usepackage[spanish]{babel}
@@ -16,5 +14,7 @@
 \subtitle{} 
 \author{Raul E. Santoy Flores}
 \date{\today}
+
+\maketitle
 
 \end{document}
